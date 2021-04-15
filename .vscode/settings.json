@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/5d8914f0-4051-453c-b784-04681c7c3599/resourceGroups/rg-cybersec/providers/Microsoft.Web/sites/sth",
+    "appService.deploySubpath": "."
+}
